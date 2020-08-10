@@ -1,4 +1,4 @@
-<img align='left' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/sprites/kindred.gif' width='20%'>  
+<img align='left' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/sprites/link.gif' width='20%'>  
 <img align='right' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/sprites/cait.gif' width='20%'>  
 
 # BIO
@@ -12,7 +12,7 @@
 
 | <a href="https://www.unisabana.edu.co/sabanahack2019/" target="_blank">**Sabana Blue Hack**</a> | <a href="https://www.unisabana.edu.co/temasunidades/salud-challenge-experience/inscripcion-salud-challenge-experience/" target="_blank">**Salud Challenge Experience**</a>| <a href="https://www.belatrixsf.com/news-and-events/hundreds-coders-hackathon/" target="_blank">**Hackatrix**</a>|
 | :---: | :---: | :---: | :---: |
-| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.jpg' height='100px'>  | 
+| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.png' height='100px'>  | 
 | <a href="https://www.unisabana.edu.co/sabanahack2019/" target="_blank">`sabanahack`</a> | <a href="https://www.unisabana.edu.co/temasunidades/salud-challenge-experience/inscripcion-salud-challenge-experience/" target="_blank">`challenge experience`</a> | <a href="https://www.belatrixsf.com/news-and-events/hundreds-coders-hackathon/" target="_blank">`belatrix`</a> | 
 
 <p align="center">I have experience in the rappi hackathon, facebook hackathon, two hackathons from the university of la sabana, datajam free steps, hackatrix with belatrix and others that I don't remember, I try to learn every day.</p>
