@@ -9,7 +9,7 @@
 
 <h2 align="center">Projects and Awards</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
-<p align="center">I have experience in the rappi hackathon, facebook hackathon, two hackathons from the university of la sabana, datajam free steps, hackatrix with belatrix and others that I don't remember, I try to learn every day.</p>
+
 
 | <a href="https://www.unisabana.edu.co/sabanahack2019/" target="_blank">**Sabana Blue Hack**</a> 
 | <a href="https://www.unisabana.edu.co/temasunidades/salud-challenge-experience/inscripcion-salud-challenge-experience/" target="_blank">**Salud Challenge Experience**</a> 
@@ -25,9 +25,23 @@
 | <a href="https://www.belatrixsf.com/news-and-events/hundreds-coders-hackathon/" target="_blank">`belatrix`</a> 
 | 
 
+<p align="center">I have experience in the rappi hackathon, facebook hackathon, two hackathons from the university of la sabana, datajam free steps, hackatrix with belatrix and others that I don't remember, I try to learn every day.</p>
+
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
 
+| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
+|:---: |
+| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
+| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">`clinicaunisabana.edu.co`</a> |
+| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
+|:---: |
+| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
+| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">`clinicaunisabana.edu.co`</a> |
+| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
+|:---: |
+| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
+| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">`clinicaunisabana.edu.co`</a> |
 | <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
 |:---: |
 | <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
