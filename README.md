@@ -13,24 +13,21 @@
 <table>
 <thead>
 <tr>
-<th align="center"><a href="http://slicklearn.xyz" rel="nofollow"><strong>Slicklearn</strong></a></th>
-<th align="center"><a href="https://github.com/2lstudios/lune-server"><strong>LuneServer</strong></a></th>
-<th align="center"><a href="https://github.com/2lstudios/lune-auth"><strong>LuneAuth</strong></a></th>
-<th align="center"><a href="http://2lidea.glitch.me" rel="nofollow"><strong>IDEA</strong></a></th>
+<th align="center"><a href="https://www.unisabana.edu.co/sabanahack2019/" rel="nofollow"><strong>Sabana blue hack</strong></a></th>
+<th align="center"><a href="https://www.unisabana.edu.co/temasunidades/salud-challenge-experience/inscripcion-salud-challenge-experience"><strong>Salud Challenge Experience</strong></a></th>
+<th align="center"><a href="https://www.belatrixsf.com/news-and-events/hundreds-coders-hackathon/"><strong>Hackatrix</strong></a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png"><img align="center" src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png" height="100px" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png"><img align="center" src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png" height="100px" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png"><img align="center" src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png" height="100px" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png"><img align="center" src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png" height="100px" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg" height="100px" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg" height="100px" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.png"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.png" height="100px" style="max-width:100%;"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="http://slicklearn.xyz" rel="nofollow"><code>slicklearn.xyz</code></a></td>
-<td align="center"><a href="http://github.com/2lstudios/lune-server"><code>github.com/2lstudios/lune-server</code></a></td>
-<td align="center"><a href="http://github.com/2lstudios/lune-auth"><code>github.com/2lstudios/lune-auth</code></a></td>
-<td align="center"><a href="https://2lidea.glitch.me/" rel="nofollow"><code>2lidea.glitch.me</code></a></td>
+<td align="center"><a href="https://www.unisabana.edu.co/sabanahack2019/" rel="nofollow"><code>sabanahack</code></a></td>
+<td align="center"><a href="https://www.unisabana.edu.co/temasunidades/salud-challenge-experience/inscripcion-salud-challenge-experience/"><code>saludchallengeexperience</code></a></td>
+<td align="center"><a href="https://www.belatrixsf.com/news-and-events/hundreds-coders-hackathon/"><code>hackatrix</code></a></td>
 </tr>
 </tbody>
 </table>
