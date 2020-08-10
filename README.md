@@ -22,7 +22,7 @@
 
 | <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
 |:---: |
-| <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/usabana.png' height='100px'> |
+| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
 | <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">`clinicaunisabana.edu.co`</a> |
 
 <h2 align="center">Skills</h2>
