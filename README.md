@@ -3,7 +3,7 @@
 
 # BIO
 
-⚡ Curiosity About Math, 🔭 I’m currently working on Sabana Clinic, 🌎 Love For Traveling,, 🧪😄 Programmer and Communicator.  
+⚡ Curiosity About Math, 🔭 I’m currently working as a developer on Sabana Clinic, 🌎 Love For Traveling,, 🧪😄 Programmer and Communicator.  
 
 #### 📫 Contact me on Discord: Sanwyn#xxxx
 
