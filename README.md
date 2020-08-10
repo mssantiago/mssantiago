@@ -10,38 +10,36 @@
 <h2 align="center">Projects and Awards</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
 
-
-| <a href="https://www.unisabana.edu.co/sabanahack2019/" target="_blank">**Sabana Blue Hack**</a> 
-| <a href="https://www.unisabana.edu.co/temasunidades/salud-challenge-experience/inscripcion-salud-challenge-experience/" target="_blank">**Salud Challenge Experience**</a> 
-| <a href="https://www.belatrixsf.com/news-and-events/hundreds-coders-hackathon/" target="_blank">**Hackatrix**</a> 
-|
-| :---: | :---: | :---: |
-| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg' height='100px'> 
-| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg' height='100px'> 
-| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.png' height='100px'> 
-|
-| <a href="https://www.unisabana.edu.co/sabanahack2019/" target="_blank">`sabanahack`</a> 
-| <a href="https://www.unisabana.edu.co/temasunidades/salud-challenge-experience/inscripcion-salud-challenge-experience/" target="_blank">`challenge experience`</a> 
-| <a href="https://www.belatrixsf.com/news-and-events/hundreds-coders-hackathon/" target="_blank">`belatrix`</a> 
-| 
+<table>
+<thead>
+<tr>
+<th align="center"><a href="http://slicklearn.xyz" rel="nofollow"><strong>Slicklearn</strong></a></th>
+<th align="center"><a href="https://github.com/2lstudios/lune-server"><strong>LuneServer</strong></a></th>
+<th align="center"><a href="https://github.com/2lstudios/lune-auth"><strong>LuneAuth</strong></a></th>
+<th align="center"><a href="http://2lidea.glitch.me" rel="nofollow"><strong>IDEA</strong></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png"><img align="center" src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png" height="100px" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png"><img align="center" src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png" height="100px" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png"><img align="center" src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png" height="100px" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png"><img align="center" src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png" height="100px" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td align="center"><a href="http://slicklearn.xyz" rel="nofollow"><code>slicklearn.xyz</code></a></td>
+<td align="center"><a href="http://github.com/2lstudios/lune-server"><code>github.com/2lstudios/lune-server</code></a></td>
+<td align="center"><a href="http://github.com/2lstudios/lune-auth"><code>github.com/2lstudios/lune-auth</code></a></td>
+<td align="center"><a href="https://2lidea.glitch.me/" rel="nofollow"><code>2lidea.glitch.me</code></a></td>
+</tr>
+</tbody>
+</table>
 
 <p align="center">I have experience in the rappi hackathon, facebook hackathon, two hackathons from the university of la sabana, datajam free steps, hackatrix with belatrix and others that I don't remember, I try to learn every day.</p>
 
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
 
-| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
-|:---: |
-| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
-| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">`clinicaunisabana.edu.co`</a> |
-| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
-|:---: |
-| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
-| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">`clinicaunisabana.edu.co`</a> |
-| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
-|:---: |
-| <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
-| <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">`clinicaunisabana.edu.co`</a> |
 | <a href="https://www.clinicaunisabana.edu.co/nuestra-clinica/" target="_blank">**Sabana University Clinic**</a> |
 |:---: |
 | <img align='center' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/usabana.png' height='100px'> |
