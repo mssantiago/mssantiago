@@ -1,4 +1,4 @@
-<img align='left' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/sprites/link.gif' width='20%'>  
+ 
 <img align='right' src='https://raw.githubusercontent.com/Sanwyn/sanwyn/master/sprites/cait.gif' width='20%'>  
 
 # BIO
