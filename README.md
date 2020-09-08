@@ -5,7 +5,7 @@
 
 ⚡ Curiosity About Math, 🔭 I’m currently working as a developer on Sabana Clinic, 🌎 Love For Traveling,, 🧪😄 Programmer and Communicator.  
 
-#### 📫 Contact me on Discord: Sanwyn#xxxx
+#### 📫 Contact me on Discord: Liewyn#xxxx
 
 <h2 align="center">Projects and Awards</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
