@@ -4,6 +4,7 @@
 # BIO
 
 ⚡ Curiosity About Math, 🔭 I’m currently working as a developer on Sabana Clinic, 🌎 Love For Traveling,, 🧪😄 Programmer and Communicator.  
+![](https://komarev.com/ghpvc/?username=Liewyn&color=blueviolet)
 
 #### 📫 Contact me on Discord: Liewyn#xxxx
 
