@@ -20,9 +20,9 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg" height="33%" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg" height="33%" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.png"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.png" height="33%" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/sabanahack.jpg" height="33%" style="max-width:100%;height:auto"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/premiosalud.jpg" height="33%" style="max-width:100%;height:auto"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.png"><img align="center" src="https://raw.githubusercontent.com/Sanwyn/sanwyn/master/projects/hackatrix.png" height="33%" style="max-width:100%;height:auto"></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://www.unisabana.edu.co/sabanahack2019/" rel="nofollow"><code>sabanahack</code></a></td>
